@@ -1,5 +1,8 @@
 package TUF_Track.Arrays;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Pascals_Triangle {
     public List<List<Integer>> generate(int numRows) {
         ArrayList<List<Integer>> out= new ArrayList<>();
